@@ -49,8 +49,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=godzilazaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1&cache_seconds=86400" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godzilazaza&layout=compact&theme=tokyonight&langs_count=8&v=1&cache_seconds=86400" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=godzilazaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=godzilazaza&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
 
 ---
