@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(R%26D);Mobile+Application+Specialist;AI+%26+Computer+Vision+Engineer;Hardware-Software+Integration" alt="Typing SVG" />
   </a>
 
-  <p>Bridging the gap between high-performance mobile ecosystems and <b>AI/Computer Vision</b> (CNN, YOLO) to solve complex industrial challenges.</p>
+  <p>Bridging the gap between high-performance mobile ecosystems and <b>AI/Computer Vision</b> (CNN, YOLO) to solve complex industrial challenges. Driven by deep Scorpio focus and forward-thinking Aquarian innovation in every system architecture.</p>
 </div>
 
 ---
@@ -33,7 +33,7 @@
 | **Mobile Dev** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) <br> **Native SDK Bridge (MethodChannels)** |
 | **Full-Stack** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232d.svg?style=flat&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) |
 | **AI & ML** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) <br> **YOLO (v8/v11), CNN, MediaPipe** |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase (Firestore)](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) |
 
 ---
 
@@ -49,8 +49,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=godzilazaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godzilazaza&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=godzilazaza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=1&cache_seconds=86400" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godzilazaza&layout=compact&theme=tokyonight&langs_count=8&v=1&cache_seconds=86400" />
 </div>
 
 ---
@@ -60,3 +60,4 @@
 - **LinkedIn:** [weeris-premprayounsuk](https://www.linkedin.com/in/weeris-premprayounsuk)
 - **Email:** [weeris.premprayounsuk@gmail.com](mailto:weeris.premprayounsuk@gmail.com)
 - 📍 Based in **Bangkok, Thailand**
+- ⚡ **Fun fact:** Bringing intense Scorpio determination and Aquarian innovation into every line of code!
