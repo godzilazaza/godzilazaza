@@ -2,7 +2,7 @@
   <h1>Hi, I'm Weeris Premprayounsuk 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(R%26D);Mobile+Application+Specialist;AI+%26+Computer+Vision+Engineer;Hardware-Software+Integration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+;Mobile+Application+Specialist;AI+%26+Computer+Vision+Engineer;Hardware-Software+Integration" alt="Typing SVG" />
   </a>
 
   <p>Bridging the gap between high-performance mobile ecosystems and <b>AI/Computer Vision</b> (CNN, YOLO) to solve complex industrial challenges. Driven by deep Scorpio focus and forward-thinking Aquarian innovation in every system architecture.</p>
